@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1-hotfix2",
-  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1-hotfix2/WeComCallAssistant_0.9.1_hotfix2.zip",
-  "notes": "增加更新进度提示，并保留本地 assets 模板图不被自动更新覆盖。"
+  "version": "0.9.1-hotfix3",
+  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1-hotfix3/WeComCallAssistant_0.9.1_hotfix3.zip",
+  "notes": "修复更新检查卡在检查中，并优化窄窗口下按钮布局与缩放体验。"
 }
