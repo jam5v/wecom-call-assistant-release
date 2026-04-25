@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1",
-  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1/WeComCallAssistant_0.9.1.zip",
-  "notes": "修复模板匹配尺寸异常，加入自动更新能力。"
+  "version": "0.9.1-hotfix1",
+  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1-hotfix1/WeComCallAssistant_0.9.1_hotfix1.zip",
+  "notes": "优化自动更新链路，增加 GitHub 超时重试和镜像兜底。"
 }
