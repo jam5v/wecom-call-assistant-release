@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1-hotfix1",
-  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1-hotfix1/WeComCallAssistant_0.9.1_hotfix1.zip",
-  "notes": "优化自动更新链路，增加 GitHub 超时重试和镜像兜底。"
+  "version": "0.9.1-hotfix2",
+  "download_url": "https://github.com/jam5v/wecom-call-assistant-release/releases/download/v0.9.1-hotfix2/WeComCallAssistant_0.9.1_hotfix2.zip",
+  "notes": "增加更新进度提示，并保留本地 assets 模板图不被自动更新覆盖。"
 }
